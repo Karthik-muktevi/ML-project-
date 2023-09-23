@@ -1,3 +1,5 @@
+### Testing logger and exception
+
 from Insurance.logger import logging
 from Insurance.exception import InsuranceException
 import os,sys
