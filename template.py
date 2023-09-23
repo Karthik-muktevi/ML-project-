@@ -23,6 +23,7 @@ list_of_files = [
     f"{project_name}/pipeline/__init__.py",
     f"{project_name}/logger/__init__.py",
     f"{project_name}/config.py",
+    f"{project_name}/exception/__init__.py",
     f"{project_name}/exception.py",
     f"{project_name}/predictor.py",
     f"{project_name}/utils.py",
